@@ -1,0 +1,11 @@
+C:\Users\tomi\Desktop\HotelManagement.exe
+C:\Users\tomi\Desktop\HotelManagement.dll
+C:\Users\tomi\Desktop\HotelManagement.deps.json
+C:\Users\tomi\Desktop\HotelManagement.runtimeconfig.json
+C:\Users\tomi\Desktop\HotelManagement.pdb
+C:\Users\tomi\Desktop\System.Data.SqlClient.dll
+C:\Users\tomi\Desktop\runtimes\win-arm64\native\sni.dll
+C:\Users\tomi\Desktop\runtimes\win-x64\native\sni.dll
+C:\Users\tomi\Desktop\runtimes\win-x86\native\sni.dll
+C:\Users\tomi\Desktop\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tomi\Desktop\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
